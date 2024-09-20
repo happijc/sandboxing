@@ -1,2 +1,2 @@
 # sandboxing
-IT-SecOps peoject
+IT-SecOps projects
