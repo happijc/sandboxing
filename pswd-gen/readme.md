@@ -1,0 +1,1 @@
+We can generate a proper password by providing a root to facilitate the users to remember the password even when it's complicated
